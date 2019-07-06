@@ -1,4 +1,7 @@
 <?php
+/**
+ * 对称二叉树
+ */
 class TreeNode {
    public $val = null;
    public $left = null;
