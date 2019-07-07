@@ -1,6 +1,6 @@
 <?php
 /**
- * 最小公共祖先
+ * 二叉树最小公共祖先
  */
 class TreeNode {
     public $val = null;
