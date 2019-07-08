@@ -27,7 +27,11 @@ class TreeNode {
      }
  }
 
-
+/*
+            8
+        10       6
+    5       4  3   2
+*/
 $treeNode4 = new TreeNode(4);
 $treeNode5 = new TreeNode(5);
 $treeNode3 = new TreeNode(3);
